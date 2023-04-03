@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gastón Comparin</h1>
+<h1 align="center">Hi, I'm Gastón Comparin</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
 - 🌱 I'm currently learning at **Henry's bootcamp**
