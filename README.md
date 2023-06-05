@@ -55,6 +55,8 @@ En este momento, estoy en busca de nuevas oportunidades que me permitan desafiar
 <a href="https://github.com/GastonComparin/PI-POKEMON"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gastoncomparin&repo=PI-POKEMON&theme=gruvbox&hide_border=true&show_icons=true" alt="Pokemon"></a>
 </p>
 <br></br>
+<p align="center">
+ 
 ## 📌Contáctame</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/gaston-comparin-34607925a/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
