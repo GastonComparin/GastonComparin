@@ -1,7 +1,7 @@
 
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hola! 👋, Bienvenid@</h1>
-¡Hola! Soy Gastón, soy una persona responsable, disciplinada y entusiasta que siempre busca nuevos desafíos en el mundo de la programación. Recientemente me aventuré en el emocionante camino del desarrollo Full Stack, donde puedo combinar mi creatividad y habilidades técnicas para construir soluciones web impactantes. Desde que descubrí la programación, me he sentido fascinado por su capacidad de crear, innovar y resolver problemas. Siempre estoy buscando nuevas oportunidades para aprender y crecer en este campo en constante evolución. ¡Únete a mí en esta emocionante travesía de desarrollo!
+¡Hola! Soy Gastón, una persona responsable, disciplinada y entusiasta que siempre busca nuevos desafíos en el mundo de la programación. Recientemente me aventuré en el emocionante camino del desarrollo Full Stack, donde puedo combinar mi creatividad y habilidades técnicas para construir soluciones web impactantes. Desde que descubrí la programación, me he sentido fascinado por su capacidad de crear, innovar y resolver problemas. Siempre estoy buscando nuevas oportunidades para aprender y crecer en este campo en constante evolución. ¡Únete a mí en esta emocionante travesía de desarrollo!
 <br/>
 <br/>
 <p align="center">
