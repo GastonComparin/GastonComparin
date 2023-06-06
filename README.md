@@ -37,7 +37,7 @@ En este momento, estoy en busca de nuevas oportunidades que me permitan desafiar
 </p>
 <p align="center"> 
 
-## 📌Actualmente estudio</p>
+## 📌Aprendiendo...</p>
 📖 Next.JS
 <br>
 📖 Tailwind CSS
